@@ -13,7 +13,7 @@ void input_and_convert_to_binary()
 {
     int num;
 
-    printf("¾çÀÇ Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+    printf("ì–‘ì˜ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”: ");
     scanf_s("%d", &num);
 
     if (num == 0)
